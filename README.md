@@ -18,4 +18,4 @@ Lines 86-94 of PyPoll_Challenge.py show the code for calculating the percentage 
 
 ## Election-Audit Summary 
 
-Through the utilization of Python, the code can be utilized to audit other congressional districts and local elections. In order to analyze any other election, a different csv file would have to be loaded. This can be modified in the line 12 of code which specifies what file to load. Additionally, the files that are being loaded may have different headers, or the data may be in different rows than those that are referenced in the code. For example, line 56 may have to be altered in which 1 is the index referenced. 
+Through the utilization of Python, the code can be utilized to audit other congressional districts and local elections. In order to analyze any other election, a different csv file would have to be loaded. This can be modified in the line 6 of code which specifies what file to load. Additionally, the files that are being loaded may have different headers, or the data may be in different rows than those that are referenced in the code. For example, line 47 may have to be altered in which 1 is the index referenced. 
